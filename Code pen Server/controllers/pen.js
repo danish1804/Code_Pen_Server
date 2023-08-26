@@ -118,7 +118,7 @@ export const deletePen = async (req, res) => {
     return res.status(404).json({ message: `Invalid user id: ${id}` });
   try {
     await Project.findByIdAndRemove(id);
-    res.json({ message: "Pen deleted successfull." });
+    res.json({ message: "Pen deletion successfull." });
   } catch (error) {
     res.status(409).json({ message: error.message });
   }
