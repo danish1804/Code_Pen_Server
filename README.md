@@ -75,6 +75,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-codepen-server
 Server side code for the full-stack clone of Codepen built using the MERN stack, with Redux for global state management. Features include:
 1. Testing HTML/CSS/JS code snippets directly from the browser, with the help of Codemirror
@@ -87,10 +93,3 @@ Demo: [React-Codepen](https://codepenreact.netlify.app/)
 <br />
 <br />
 Client side code at [react-codepen-client](https://github.com/Swapnil-2001/react-codepen-client)
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
