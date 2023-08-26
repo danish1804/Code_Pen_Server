@@ -1,5 +1,5 @@
 
-# react-codepen-server
+# codepen_server
 Server side code for the full-stack clone of Codepen built using the MERN stack, with Redux for global state management. Features include:
 1. Testing HTML/CSS/JS code snippets directly from the browser, with the help of Codemirror
 2. User authentication using JWT
